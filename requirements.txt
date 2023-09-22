@@ -1,0 +1,6 @@
+asyncpg==0.28.0
+greenlet==2.0.2
+psycopg2-binary==2.9.7
+SQLAlchemy==2.0.20
+tqdm==4.66.1
+typing_extensions==4.7.1
